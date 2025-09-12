@@ -1,0 +1,221 @@
+Gender,Designation,Age,Experience,Salary
+Male,Clerk,29,0,27286
+Female,Accountant,28,5,44648
+Male,Salesman,27,1,34631
+Female,Salesman,56,26,71035
+Female,IT Officer,22,0,57547
+Male,Clerk,35,12,41952
+Female,Clerk,28,2,34215
+Male,IT Officer,56,7,69358
+Male,Salesman,45,18,48961
+Male,Salesman,40,2,36932
+Male,Clerk,51,20,54400
+Male,Clerk,35,10,42033
+Female,Salesman,56,15,52242
+Male,Clerk,57,14,40001
+Male,Clerk,42,12,46484
+Female,IT Officer,42,6,71265
+Male,Salesman,31,4,44326
+Female,IT Officer,38,13,70578
+Male,Accountant,54,31,70776
+Male,IT Officer,32,10,73192
+Male,Clerk,60,29,70260
+Male,Clerk,56,17,50823
+Female,Accountant,32,7,52111
+Male,Clerk,54,6,36862
+Female,Accountant,32,8,50719
+Male,Clerk,29,5,33241
+Female,Accountant,58,5,53077
+Male,IT Officer,30,2,65787
+Male,Salesman,60,27,66750
+Male,IT Officer,45,14,73423
+Male,Accountant,26,2,46412
+Male,Accountant,22,0,40514
+Female,Salesman,43,2,40923
+Female,Salesman,35,8,46133
+Male,Accountant,48,6,55906
+Female,IT Officer,44,13,67727
+Male,Clerk,25,3,31301
+Male,IT Officer,34,8,67862
+Male,Salesman,39,14,56558
+Male,Accountant,28,0,42724
+Male,IT Officer,48,15,74110
+Female,Accountant,32,6,53880
+Male,IT Officer,40,13,72783
+Female,Accountant,35,0,40821
+Male,Salesman,59,30,70912
+Male,Accountant,33,1,43177
+Male,Accountant,58,15,67997
+Female,Clerk,58,33,63444
+Male,IT Officer,37,8,71811
+Male,Accountant,51,10,61914
+Female,Salesman,28,0,35718
+Female,Clerk,26,1,33140
+Female,Accountant,56,19,69798
+Male,Accountant,30,4,48010
+Female,Salesman,39,9,43397
+Male,Clerk,54,31,59653
+Female,Accountant,39,1,45224
+Male,IT Officer,32,7,62630
+Female,Accountant,31,8,60220
+Male,Salesman,31,6,42664
+Male,Salesman,24,1,33166
+Male,IT Officer,44,17,75376
+Male,Accountant,33,6,53585
+Male,Salesman,37,8,40162
+Female,Salesman,52,7,43106
+Male,Accountant,36,3,49002
+Female,Clerk,39,2,36258
+Male,Clerk,47,21,48557
+Male,Clerk,33,9,42973
+Female,Clerk,49,11,48999
+Female,Salesman,29,6,42214
+Female,Clerk,22,0,30409
+Female,Clerk,42,3,36137
+Male,Clerk,42,12,43840
+Female,Salesman,46,21,64492
+Male,Clerk,22,0,34502
+Female,IT Officer,60,20,83541
+Male,Salesman,54,30,71145
+Female,Salesman,43,2,35322
+Male,Accountant,31,0,41193
+Female,Salesman,51,13,53525
+Male,Accountant,37,4,48525
+Male,IT Officer,33,11,74152
+Female,Salesman,29,7,49083
+Female,IT Officer,57,20,89525
+Female,IT Officer,32,7,66914
+Female,Salesman,55,31,70019
+Female,Clerk,40,7,41738
+Male,Salesman,27,1,33695
+Female,IT Officer,35,1,65028
+Male,Accountant,51,13,62371
+Female,IT Officer,59,1,61569
+Male,IT Officer,41,12,74183
+Male,IT Officer,39,13,76081
+Female,Salesman,47,23,60141
+Male,Accountant,23,1,48480
+Male,Salesman,30,7,43673
+Female,IT Officer,42,6,68081
+Male,Clerk,39,13,41970
+Male,Clerk,56,3,30519
+Male,Salesman,24,0,32496
+Male,IT Officer,37,4,64079
+Female,Clerk,51,22,56288
+Female,Salesman,60,7,45851
+Female,IT Officer,23,1,57248
+Female,Accountant,59,15,72337
+Female,Clerk,29,0,31071
+Male,Clerk,26,4,37951
+Female,Clerk,28,3,35003
+Female,Clerk,33,11,46172
+Male,Clerk,59,17,44665
+Female,IT Officer,50,7,63478
+Female,Salesman,53,20,56153
+Female,Clerk,38,10,38856
+Male,Accountant,55,12,62596
+Female,IT Officer,57,15,74152
+Female,Salesman,27,2,37114
+Female,IT Officer,59,23,92422
+Female,IT Officer,43,11,71361
+Female,Salesman,36,1,39701
+Female,Salesman,33,3,42908
+Male,Accountant,55,18,63581
+Male,Clerk,45,5,33803
+Female,Accountant,39,1,48971
+Female,Accountant,28,6,55523
+Male,Salesman,50,10,48407
+Female,IT Officer,29,1,65328
+Female,Salesman,25,1,34953
+Female,Salesman,29,6,44819
+Female,IT Officer,41,18,80862
+Male,Salesman,28,6,37750
+Male,Salesman,32,3,32923
+Female,IT Officer,48,14,70454
+Male,IT Officer,40,9,68685
+Male,IT Officer,59,12,74967
+Male,Salesman,31,4,36162
+Female,Clerk,41,19,50292
+Female,Clerk,41,12,41293
+Female,IT Officer,60,2,61938
+Male,Salesman,23,0,34415
+Female,Salesman,58,2,39907
+Female,IT Officer,39,5,67165
+Female,Clerk,44,13,46031
+Female,IT Officer,32,5,67036
+Male,IT Officer,57,2,61379
+Male,IT Officer,42,3,68308
+Male,Accountant,51,13,63217
+Male,Accountant,53,28,79042
+Female,IT Officer,30,4,59168
+Female,Salesman,60,15,50684
+Male,Accountant,57,26,71376
+Female,IT Officer,29,2,62121
+Female,IT Officer,48,26,89757
+Male,IT Officer,57,9,76044
+Female,Clerk,30,1,34466
+Female,Clerk,39,0,34501
+Female,IT Officer,53,9,70823
+Female,IT Officer,57,34,96476
+Female,Salesman,37,12,45341
+Female,IT Officer,52,22,90030
+Female,Salesman,53,2,39017
+Male,IT Officer,28,4,65505
+Female,IT Officer,31,1,62658
+Female,IT Officer,27,2,65876
+Male,Accountant,56,2,47600
+Female,Accountant,36,11,51546
+Male,Clerk,50,5,34549
+Female,Clerk,25,2,29867
+Male,Salesman,37,13,44020
+Female,Salesman,46,19,58887
+Female,Clerk,36,7,32580
+Male,Clerk,51,28,56737
+Female,Clerk,44,18,51492
+Female,IT Officer,41,6,64340
+Female,Clerk,46,18,45195
+Male,Accountant,47,8,59498
+Male,Clerk,40,7,38272
+Male,Accountant,38,4,51686
+Male,Clerk,24,2,31619
+Male,Salesman,42,13,50992
+Male,Clerk,45,16,49902
+Female,Accountant,40,10,51076
+Female,IT Officer,36,13,73060
+Female,Accountant,22,0,44295
+Male,Clerk,59,24,64614
+Male,Clerk,52,0,26035
+Female,Clerk,51,29,53941
+Female,Clerk,24,0,26592
+Female,IT Officer,37,4,68566
+Female,Salesman,48,18,58082
+Male,Clerk,53,26,59213
+Female,Salesman,50,14,48632
+Female,Accountant,56,22,66913
+Male,Accountant,29,7,59982
+Male,Clerk,23,0,34250
+Male,Salesman,35,1,36421
+Female,Accountant,31,9,50661
+Male,Salesman,56,16,54038
+Male,Clerk,30,0,30304
+Male,Clerk,23,0,31897
+Female,Accountant,55,7,54744
+Male,IT Officer,54,6,64284
+Male,IT Officer,55,19,79225
+Female,Accountant,47,13,57506
+Male,Salesman,27,2,36363
+Female,Clerk,59,35,83077
+Male,IT Officer,40,14,76871
+Male,IT Officer,35,6,67891
+Male,IT Officer,51,12,75432
+Male,Clerk,42,8,36379
+Female,Accountant,27,0,46105
+Female,Accountant,30,8,53890
+Male,IT Officer,48,11,76871
+Male,Accountant,41,11,58438
+Female,Accountant,36,13,63819
+Female,Salesman,29,4,44617
+Male,Accountant,23,1,46141
+Male,Accountant,43,11,59684
+Male,Salesman,47,2,40477
+Female,IT Officer,35,6,64472
